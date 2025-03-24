@@ -190,7 +190,7 @@ header .sub-menu .search input {
 }
 header .sub-menu .search input:focus {
   width: 190px;
-  border-color: #87c9a1;
+  border-color: #5fa0d7;
 }
 header .sub-menu .search .material-icons {
   height: 24px;
@@ -518,7 +518,7 @@ header .badges .badge {
   right: 0;
 }
 .rewards .inner {
-  background-image: url('../images/season_product_bg3.png');
+  background-image: url('../images/badge11.png');
   /* background-repeat: no-repeat; */
   height: 241px;
 }
